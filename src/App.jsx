@@ -8,6 +8,7 @@ import './App.css'
 
 const QUIZ_SIZE = 20
 const MOBILE_QUERY = '(max-width: 768px)'
+const CATEGORIES = [...new Set(problems.map((p) => p.cat).filter(Boolean))]
 
 function shuffle(array) {
   const result = [...array]
@@ -73,10 +74,16 @@ function ThemeToggleButton({ theme, onToggle }) {
 
 function AllQuestionsView({ onBack, theme, onToggleTheme }) {
   const [answers, setAnswers] = useState({})
+  const [activeCat, setActiveCat] = useState('all')
 
   function handleSelect(id, value) {
     setAnswers((prev) => ({ ...prev, [id]: value }))
   }
+
+  const filtered =
+    activeCat === 'all'
+      ? problems
+      : problems.filter((q) => q.cat === activeCat)
 
   return (
     <div className="app">
@@ -95,8 +102,26 @@ function AllQuestionsView({ onBack, theme, onToggleTheme }) {
         </p>
       </header>
 
+      <div className="cat-tabs">
+        <button
+          className={'cat-tab' + (activeCat === 'all' ? ' active' : '')}
+          onClick={() => setActiveCat('all')}
+        >
+          전체
+        </button>
+        {CATEGORIES.map((cat) => (
+          <button
+            key={cat}
+            className={'cat-tab' + (activeCat === cat ? ' active' : '')}
+            onClick={() => setActiveCat(cat)}
+          >
+            {cat}
+          </button>
+        ))}
+      </div>
+
       <ol className="question-list">
-        {problems.map((q, index) => {
+        {filtered.map((q, index) => {
           const userAnswer = answers[q.id]
           const isCorrect = userAnswer !== undefined && userAnswer === q.answer
           const isWrong = userAnswer !== undefined && userAnswer !== q.answer
@@ -166,7 +191,10 @@ function QuestionCard({ q, index, userAnswer, submitted, onSelect }) {
         (isUnanswered ? ' unanswered' : '')
       }
     >
-      <div className="question-index">{index + 1}.</div>
+      <div className="card-header">
+        <div className="question-index">{index + 1}.</div>
+        {q.cat && <div className="question-cat">{q.cat}</div>}
+      </div>
       <div className="question-text">{q.subject}</div>
       <div className="choice-row">
         <div className="choices">

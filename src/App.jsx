@@ -37,7 +37,41 @@ function useIsMobile() {
   return isMobile
 }
 
-function AllQuestionsView({ onBack }) {
+function useTheme() {
+  const [theme, setTheme] = useState(() => {
+    const saved = localStorage.getItem('theme')
+    if (saved === 'light' || saved === 'dark') return saved
+    return window.matchMedia('(prefers-color-scheme: dark)').matches
+      ? 'dark'
+      : 'light'
+  })
+
+  useEffect(() => {
+    document.documentElement.dataset.theme = theme
+    localStorage.setItem('theme', theme)
+  }, [theme])
+
+  function toggleTheme() {
+    setTheme((prev) => (prev === 'dark' ? 'light' : 'dark'))
+  }
+
+  return [theme, toggleTheme]
+}
+
+function ThemeToggleButton({ theme, onToggle }) {
+  return (
+    <button
+      className="reset-btn"
+      onClick={onToggle}
+      aria-label="테마 전환"
+      title="낮/밤 테마 전환"
+    >
+      {theme === 'dark' ? '☀️ 낮' : '🌙 밤'}
+    </button>
+  )
+}
+
+function AllQuestionsView({ onBack, theme, onToggleTheme }) {
   const [answers, setAnswers] = useState({})
 
   function handleSelect(id, value) {
@@ -49,6 +83,10 @@ function AllQuestionsView({ onBack }) {
       <button className="reset-btn top-left" onClick={onBack}>
         ← 퀴즈로 돌아가기
       </button>
+
+      <div className="top-actions">
+        <ThemeToggleButton theme={theme} onToggle={onToggleTheme} />
+      </div>
 
       <header className="header">
         <h1>전체 문항 보기</h1>
@@ -170,6 +208,7 @@ function QuestionCard({ q, index, userAnswer, submitted, onSelect }) {
 
 function App() {
   const isMobile = useIsMobile()
+  const [theme, toggleTheme] = useTheme()
   const swiperRef = useRef(null)
   const [view, setView] = useState('quiz')
   const [quiz, setQuiz] = useState(() => pickQuizSet())
@@ -213,7 +252,13 @@ function App() {
   }
 
   if (view === 'all') {
-    return <AllQuestionsView onBack={() => setView('quiz')} />
+    return (
+      <AllQuestionsView
+        onBack={() => setView('quiz')}
+        theme={theme}
+        onToggleTheme={toggleTheme}
+      />
+    )
   }
 
   return (
@@ -225,14 +270,17 @@ function App() {
         ☰ 전체 문항보기
       </button>
 
-      <button
-        className="reset-btn"
-        onClick={handleRestart}
-        aria-label="문제 초기화"
-        title="새 문제로 초기화"
-      >
-        ⟲ 초기화
-      </button>
+      <div className="top-actions">
+        <ThemeToggleButton theme={theme} onToggle={toggleTheme} />
+        <button
+          className="reset-btn"
+          onClick={handleRestart}
+          aria-label="문제 초기화"
+          title="새 문제로 초기화"
+        >
+          ⟲ 초기화
+        </button>
+      </div>
 
       <header className="header">
         <h1>O/X 퀴즈</h1>

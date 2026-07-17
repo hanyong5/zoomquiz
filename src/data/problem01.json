@@ -1,0 +1,947 @@
+[
+  {
+    "id": 1,
+    "subject": "이론 윤리학의 핵심 과제는 특정 사회의 도덕 현상을 가치중립적으로 기술하는 것이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 2,
+    "subject": "이론 윤리학의 핵심 과제는 도덕적 행위를 정당화하는 도덕 원리를 정립하는 것이다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 3,
+    "subject": "이론 윤리학은 인간으로서 마땅히 이행해야 할 보편적 도덕 원리를 정립해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 4,
+    "subject": "이론 윤리학은 도덕 이론의 정립을 위해 모든 도덕 문제를 가치 중립적으로 다루어야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 5,
+    "subject": "이론 윤리학의 핵심 과제는 도덕규범을 객관적 사실로 설명하는 것이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 6,
+    "subject": "이론 윤리학의 핵심 과제는 윤리적 행위를 이끄는 근거에 대한 정당성을 정립하는 것이다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 7,
+    "subject": "이론 윤리학은 윤리학의 주요 과제가 도덕 명제의 추론 가능성과 논증의 타당성을 분석하는 것이라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 8,
+    "subject": "실천 윤리학의 핵심 과제는 특정 사회의 도덕적 관습을 객관적으로 설명하는 것이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 9,
+    "subject": "실천 윤리학은 도덕 문제의 규범적 해결을 위해 인접 학문의 성과를 배제해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 10,
+    "subject": "실천 윤리학은 도덕적 명제에 대한 의문의 명확한 해소에 연구 역량을 집중한다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 11,
+    "subject": "실천 윤리학은 다양한 삶의 영역에서 발생하는 도덕적 갈등 상황에 대한 실천 지침을 제시한다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 12,
+    "subject": "기술 윤리학은 도덕 현상은 과학적으로 기술해야 할 사실의 집합이라는 것을 강조한다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 13,
+    "subject": "기술 윤리학의 핵심 과제는 행위의 옳고 그름을 판단할 수 있는 기준을 설정하는 것이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 14,
+    "subject": "기술 윤리학은 윤리학이 개인이나 사회가 지닌 도덕적 신념에 대한 객관적 탐구를 주요 과제로 삼아야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 15,
+    "subject": "메타 윤리학은 도덕 명제의 진위를 판별하는 논증을 검토하는 것을 핵심 과제로 삼는다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 16,
+    "subject": "메타 윤리학은 윤리학은 사실 명제로부터 당위 명제가 연역 가능한지 탐구해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 17,
+    "subject": "메타 윤리학의 핵심 과제는 도덕 판단을 위한 보편적 도덕 법칙을 정립하는 것이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 18,
+    "subject": "‘낙태는 나쁘다’라는 진술은 낙태에 대한 부정적 감정을 표현하는 것에 불과하다고 보는 입장은 실천 윤리학의 입장이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 19,
+    "subject": "‘거짓말은 나쁘니까 사소한 거짓말도 나쁘다’라는 추론이 타당한지 검토하는 윤리학의 분야는 기술 윤리학이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 20,
+    "subject": "메타 윤리학은 윤리학은 도덕적 진리 또는 도덕적 지식의 존재 여부를 탐구해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 21,
+    "subject": "공자는 이익[利]이 의로움[義]에 부합하더라도 추구해서는 안 된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 22,
+    "subject": "공자는 자신을 희생하여 인을 이룬다면 죽어도 여한이 없다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 23,
+    "subject": "공자는 나의 부모와 남의 부모를 구분하지 말고 똑같이 사랑해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 24,
+    "subject": "공자는 군자는 의로움[義]보다 이로움[利]을 우선해서는 안 된다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 25,
+    "subject": "공자는 빈천을 벗어나 부귀를 누리는 사람은 군자가 될 수 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 26,
+    "subject": "공자는 인은 군자의 내면적인 덕목이므로 다스림의 근본이 될 수 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 27,
+    "subject": "공자는 욕망을 극복하고[克己] 이름을 높이는 것은 인과 예에 어긋난다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 28,
+    "subject": "공자는 백성 스스로 잘못을 깨닫게 하려면 형벌로 다스릴 수밖에 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 29,
+    "subject": "공자는 인을 실천하고자 한다면 항상 자신을 희생해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 30,
+    "subject": "공자는 통치자는 백성이 정치 참여의 주체가 되도록 법 제도를 정비해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 31,
+    "subject": "공자는 존비친소(尊卑親疏)의 구별 없이 사람들을 동등하게 사랑해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 32,
+    "subject": "공자는 시비선악(是非善惡)을 분별하지 않는 마음으로 사욕을 극복해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 33,
+    "subject": "공자는 사회적 약자가 보호받는 도덕 공동체를 지향해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 34,
+    "subject": "공자는 자기 수양[修]은 이상 사회 실현을 위한 토대가 될 수 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 35,
+    "subject": "맹자에 따르면 선비는 백성과 달리 항산이 없어도 본심을 잃지 않을 수 있다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 36,
+    "subject": "맹자는 군주는 모든 생업에 능통하여 백성의 모범이 되어야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 37,
+    "subject": "맹자는 선한 마음을 보존하여 인의를 실현하는 삶을 추구해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 38,
+    "subject": "맹자는 사회 혼란의 근원인 예법을 폐지하고 타고난 덕을 닦아야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 39,
+    "subject": "맹자와 노자는 모두 사회적 관계에서 벗어나 내면의 고요함을 유지해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 40,
+    "subject": "맹자는 본성을 함양하고[養性] 인의를 실현하는 삶을 살아야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 41,
+    "subject": "맹자는 다스리는 사람은 다스림을 받는 사람을 물질적으로 부양해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 42,
+    "subject": "맹자는 군주는 백성 각자가 모든 재화를 자급자족하도록 해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 43,
+    "subject": "맹자는 인간의 도덕적 지식과 실천 능력은 후천적 노력으로 형성된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 44,
+    "subject": "맹자는 불선(不善)을 저지른 사람도 수양을 지속하면 대장부가 될 수 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 45,
+    "subject": "맹자는 인간의 선천적 도덕 본성은 이기적 욕망으로 인해 완전히 절멸된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 46,
+    "subject": "맹자는 의로운 일을 지속적으로 실천함으로써 본성을 교화할 수 있다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 47,
+    "subject": "맹자는 타인을 돕는 행위를 함으로써 측은지심(惻隱之心)이 형성될 수 있다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 48,
+    "subject": "맹자는 통치의 궁극적 목적은 백성이 경제적 안정을 얻는 것이라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 49,
+    "subject": "맹자는 항산(恒産) 없이 항심(恒心)을 유지할 수 있는 자는 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 50,
+    "subject": "맹자는 백성의 이익을 증진하는 것은 군주의 책무가 아니라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 51,
+    "subject": "맹자는 수오(羞惡)의 마음은 의로운 행위를 꾸준히 실천해야만 생겨난다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 52,
+    "subject": "맹자는 인간은 하늘로부터 도덕적 본성을 부여받은 존재가 아니라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 53,
+    "subject": "맹자는 남의 고통을 차마 어찌하지 못하는 마음을 형성해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 54,
+    "subject": "맹자는 백성에게 오륜을 바탕으로 인륜을 가르쳐야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 55,
+    "subject": "맹자는 경제적 안정은 백성의 도덕적 인격 수양의 조건이 될 수 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 56,
+    "subject": "맹자는 타고난 재능을 가진 일부의 사람들만이 호연지기를 갖춘 대장부가 될 수 있다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 57,
+    "subject": "맹자는 궁핍한 백성의 도덕적 일탈은 군주의 책임으로 귀속될 수 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 58,
+    "subject": "맹자는 나쁜 환경에 처한 사람은 반드시 자신의 본성을 잃게 된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 59,
+    "subject": "순자는 예의에 따라 직분에 충실하면 욕구를 충족할 수 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 60,
+    "subject": "순자는 도(道)에 정통한 군주가 모든 직업에 능숙할 필요는 없다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 61,
+    "subject": "석가모니는 무명(無明)을 조건으로 의도적 행위들이 생겨난다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 62,
+    "subject": "석가모니는 정신에는 집착해도 물질에는 집착해서는 안 된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 63,
+    "subject": "석가모니는 현세에 악업(惡業)을 쌓으면 내세에 다시 태어날 수 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 64,
+    "subject": "석가모니는 모든 번뇌가 소멸된 사람도 죽음의 고통을 벗어날 수 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 65,
+    "subject": "석가모니와 장자는 모두 삶과 죽음의 참된 의미를 깨달으려면 꾸준히 수행해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 66,
+    "subject": "석가모니는 중생의 죽음은 태어남과 상관없이 생기는 고통일 뿐이라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 67,
+    "subject": "석가모니는 열반에 이른 사람도 삶과 죽음의 굴레를 벗어날 수는 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 68,
+    "subject": "석가모니는 참된 깨달음은 극단적 수행인 고행에 의해서만 도달 가능하다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 69,
+    "subject": "석가모니는 모든 사물과 현상이 원인과 조건에 의해 존재하는 것은 아니라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 70,
+    "subject": "석가모니는 자아(自我)와 무상(無常)인 모든 것은 고정된 실체가 될 수 있다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 71,
+    "subject": "석가모니는 인간을 구성하는 오온(五蘊)만은 일시적인 것이 아니며 불변한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 72,
+    "subject": "석가모니는 중도를 닦아 허물과 번뇌를 없애고 참된 깨달음에 이르러야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 73,
+    "subject": "석가모니는 죽음과 병듦, 늙음은 고통이지만 삶 자체는 즐거움이라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 74,
+    "subject": "석가모니는 완전한 깨달음이란 어떤 상태가 아니라 수행 과정 자체에 존재한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 75,
+    "subject": "석가모니는 만물을 독립된 실체로 바라봐야 이상적 경지에 이를 수 있다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 76,
+    "subject": "노자는 스스로 그러한 도를 따름으로써 분별적 지식을 쌓아야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 77,
+    "subject": "노자는 만물을 이롭게 하고 서로 다투지 않는 모습은 도에 가깝다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 78,
+    "subject": "노자는 무위(無爲)의 삶을 통해 타고난 본성을 변화시켜야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 79,
+    "subject": "노자는 옳고 그름을 분별함으로써 사물의 실체를 파악해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 80,
+    "subject": "노자는 인륜의 질서를 확립하기 위해 무위자연의 도를 따라야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 81,
+    "subject": "노자는 시비(是非)와 선악(善惡)의 분별에서 벗어나는 삶을 살아야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 82,
+    "subject": "장자는 쓸모 있음과 없음의 분별은 도의 관점에서 비롯된 것이라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 83,
+    "subject": "장자는 도(道)의 관점에서 세상 만물을 보면 만물은 모두 평등하다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 84,
+    "subject": "장자는 도는 만물의 근원이자 변화의 법칙이며 어디에나 내재한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 85,
+    "subject": "아퀴나스는 이성을 발휘하여 자연적 성향에서 벗어나야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 86,
+    "subject": "아퀴나스는 영원불변하는 질서와 법칙인 영원법은 사물의 본성에 반영되어 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 87,
+    "subject": "아퀴나스는 자연법에 어긋나게 제정된 실정법은 무효가 된다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 88,
+    "subject": "아퀴나스는 신의 법인 영원법에서 모든 하위의 법이 나온다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 89,
+    "subject": "아퀴나스와 칸트는 모두 자살은 자기 보존이라는 자신의 의무에 위배된다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 90,
+    "subject": "칸트는 의지의 준칙에 따른 행위는 도덕적 행위가 될 수 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 91,
+    "subject": "칸트는 의무에 부합하는 모든 행위는 도덕적 행위일 수밖에 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 92,
+    "subject": "칸트는 자연적 경향성은 행위의 도덕성 판단을 위한 보편적 원리가 될 수 없다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 93,
+    "subject": "칸트는 도덕적 행위로 성립하려면 반드시 타인의 행복에 기여한 행위여야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 94,
+    "subject": "칸트는 자기 자신을 목적 그 자체로 존중해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 95,
+    "subject": "칸트는 사적인 이해관계에 대한 고려 없이 도덕 법칙에 자율적으로 복종해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 96,
+    "subject": "칸트는 타인에 대한 동정심에서 비롯된 행위는 의무에 일치할 수 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 97,
+    "subject": "칸트는 인간이 도덕 법칙을 따르는 행위는 타율적인 행위라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 98,
+    "subject": "칸트는 도덕 명령은 인간에게 언제나 실천적 강제이자 의무라고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 99,
+    "subject": "칸트는 행복 추구와 도덕적 의무 이행이 양립 불가능하다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 100,
+    "subject": "칸트는 정직한 행위가 도덕적 의무에 맞기만 하면 된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 101,
+    "subject": "칸트는 인간은 자유를 통해 도덕적 정서에 기초한 정언 명령을 준수한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 102,
+    "subject": "칸트는 의무 의식은 도덕 법칙에 대한 존경심의 결여에서 비롯된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 103,
+    "subject": "칸트는 실천 이성은 도덕적 행동의 자유로운 실천으로 형성된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 104,
+    "subject": "칸트는 도덕 명령은 사회적 승인 여부를 기준으로 결정된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 105,
+    "subject": "칸트의 선의지는 자기 의지의 격률을 보편화하는 과정에서 형성되는 것이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 106,
+    "subject": "칸트는 인간을 목적으로 대하라는 목적론적 윤리설의 관점을 가지고 있다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 107,
+    "subject": "칸트는 의무에 맞는 행위 중 의무로부터 나온 행위만이 도덕적이라고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 108,
+    "subject": "칸트는 도덕 법칙에 대한 존경에서 나온 행위는 감정에 의한 행위이므로 도덕적 가치가 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 109,
+    "subject": "칸트는 의무 의식으로부터 나온 행위는 모두 결과와 무관하게 도덕적이라고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 110,
+    "subject": "벤담은 국가의 입법 원리와 개인의 도덕 원리는 궁극적으로 같을 수 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 111,
+    "subject": "벤담은 전체의 선을 추구할 때 개인의 선을 양보하는 것이 정당화될 수 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 112,
+    "subject": "벤담은 인간의 본성에 근거하여 개인이 따라야 할 도덕 원리를 도출할 수 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 113,
+    "subject": "벤담은 고통을 초래하는 행위가 도덕적 가치를 지닐 가능성은 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 114,
+    "subject": "벤담은 사회적 이익은 사회를 구성하는 개인들의 이익을 모두 합한 것보다 크다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 115,
+    "subject": "벤담은 최대 다수의 행복을 실현하려는 동기에 따라 이루어진 모든 행위는 도덕적이라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 116,
+    "subject": "벤담은 쾌락의 추구와 고통의 감내를 행위의 동기로 삼는다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 117,
+    "subject": "벤담과 밀은 모두 이해 당사자들의 쾌락을 공평하게 고려해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 118,
+    "subject": "밀은 개인의 쾌락을 포기해야만 전체의 공리가 극대화된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 119,
+    "subject": "밀은 인간의 고유한 능력으로 얻을 수 있는 고상한 쾌락을 추구해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 120,
+    "subject": "밀은 쾌락의 질적 차이는 오직 자신만이 판별할 수 있다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 121,
+    "subject": "밀은 쾌락의 질적 차이는 양적 차이로 환원될 수밖에 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 122,
+    "subject": "밀은 쾌락과는 독립적으로 존재하는 도덕적 가치의 실현을 추구해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 123,
+    "subject": "아리스토텔레스는 두려움의 감정을 가지면 용기의 덕을 지닐 수 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 124,
+    "subject": "아리스토텔레스는 덕을 형성하기 위해 모든 행위에 적용되는 중용을 실천해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 125,
+    "subject": "아리스토텔레스는 지나침과 모자람에 따른 악덕을 피하기 위해 모든 감정을 제거해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 126,
+    "subject": "아리스토텔레스의 중용은 타고난 도덕적 덕을 습관화하는 것이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 127,
+    "subject": "아리스토텔레스는 어떤 하나의 행위에서 중용의 덕은 여럿이고 악덕은 하나라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 128,
+    "subject": "아리스토텔레스는 모든 덕이 행위를 지속적으로 습관화하여 형성된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 129,
+    "subject": "아리스토텔레스가 보기에 어떤 감정이나 행위들은 중용의 상태를 가질 수 없다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 130,
+    "subject": "매킨타이어는 친밀도에 따른 차등적 대우는 유덕한 행위가 될 수 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 131,
+    "subject": "매킨타이어는 행위 자체에 내재된 도덕적 속성으로 보편적 도덕 법칙을 세워야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 132,
+    "subject": "매킨타이어는 모든 공동체에 적용 가능한 행위만을 습관화해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 133,
+    "subject": "매킨타이어는 덕을 소유하고 발휘함으로써 공동선을 실현할 수 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 134,
+    "subject": "매킨타이어는 공동체의 선보다 보편적인 도덕 원칙을 더 중시해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 135,
+    "subject": "매킨타이어는 개인은 공동체를 벗어나면 덕을 실천하는 방법을 배울 수 없다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  }
+]

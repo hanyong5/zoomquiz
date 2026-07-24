@@ -1156,7 +1156,7 @@
     "cat": "생명윤리",
     "subject": "유교 사상과 도가 사상은 모두 태어남과 죽음은 본래 자연스러운 과정일 뿐이라고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -1324,7 +1324,7 @@
     "cat": "생명윤리",
     "subject": "불교에서는 불성을 형성한 생명체에 대해 자비를 실천해야 한다고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -1340,7 +1340,7 @@
     "cat": "생명윤리",
     "subject": "불교는 삶과 죽음을 서로 다르지 않은 하나[生死一如]로 여겨야 한다고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -1396,7 +1396,7 @@
     "cat": "생명윤리",
     "subject": "불교 사상은 무명(無明) 상태에서는 상호의존관계를 결코 벗어날 수 없다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -2252,7 +2252,7 @@
     "cat": "생명윤리",
     "subject": "프롬은 상대방을 소유하는 방식으로는 어떠한 합일도 불가능하다고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {

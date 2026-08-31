@@ -72,7 +72,7 @@ function ThemeToggleButton({ theme, onToggle }) {
   )
 }
 
-function AllQuestionsView({ onBack, theme, onToggleTheme }) {
+function AllQuestionsView({ onStartQuiz, theme, onToggleTheme }) {
   const [answers, setAnswers] = useState({})
   const [activeCat, setActiveCat] = useState('all')
 
@@ -87,8 +87,8 @@ function AllQuestionsView({ onBack, theme, onToggleTheme }) {
 
   return (
     <div className="app">
-      <button className="reset-btn top-left" onClick={onBack}>
-        ← 퀴즈로 돌아가기
+      <button className="reset-btn top-left" onClick={onStartQuiz}>
+        ▶ 퀴즈 풀기
       </button>
 
       <div className="top-actions">
@@ -100,6 +100,9 @@ function AllQuestionsView({ onBack, theme, onToggleTheme }) {
         <p className="subtitle">
           전체 {problems.length}문항 · 선택하면 바로 정답 확인
         </p>
+        <button className="btn btn-primary start-quiz-cta" onClick={onStartQuiz}>
+          ▶ 퀴즈 풀러 가기 (랜덤 {QUIZ_SIZE}문항)
+        </button>
       </header>
 
       <div className="cat-tabs">
@@ -238,7 +241,7 @@ function App() {
   const isMobile = useIsMobile()
   const [theme, toggleTheme] = useTheme()
   const swiperRef = useRef(null)
-  const [view, setView] = useState('quiz')
+  const [view, setView] = useState('all')
   const [quiz, setQuiz] = useState(() => pickQuizSet())
   const [answers, setAnswers] = useState({})
   const [submitted, setSubmitted] = useState(false)
@@ -279,10 +282,15 @@ function App() {
     swiperRef.current?.slideTo(0, 0)
   }
 
+  function handleStartQuiz() {
+    handleRestart()
+    setView('quiz')
+  }
+
   if (view === 'all') {
     return (
       <AllQuestionsView
-        onBack={() => setView('quiz')}
+        onStartQuiz={handleStartQuiz}
         theme={theme}
         onToggleTheme={toggleTheme}
       />
@@ -295,7 +303,7 @@ function App() {
         className="reset-btn top-left"
         onClick={() => setView('all')}
       >
-        ☰ 전체 문항보기
+        ← 전체 문항으로
       </button>
 
       <div className="top-actions">

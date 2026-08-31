@@ -56,6 +56,10 @@
   font-size: 14px;
 }
 
+.start-quiz-cta {
+  margin-top: 14px;
+}
+
 .cat-tabs {
   display: flex;
   gap: 8px;

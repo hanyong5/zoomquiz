@@ -9815,7 +9815,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "하버마스는 개인적 목표는 공동의 상황 정의에 근거할 때만 달성할 수 있다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -9932,7 +9932,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "칸트는 평화 연맹이 많아질수록 영원한 평화에 가까워질 수 있다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -9968,7 +9968,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "칸트는 방문한 외국인이 내국인과 동일하게 행사할 수 있는 권리는 없다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -10013,7 +10013,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "칸트는 시민법 체계가 한 국가의 대내적 정치 제도를 지정할 수는 없다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -10247,7 +10247,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "모겐소와 칸트는 모두 비폭력적 수단을 통해 국가 간 전쟁이 억제될 수 있다고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -10274,7 +10274,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "모겐소는 평화적인 방법으로는 국가들 간 전쟁을 억지할 수 없다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -10391,7 +10391,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "모겐소와 칸트는 모두 국제 정치에서 국가의 행위가 도덕적 중요성을 지님을 인식해야 한다고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -10553,7 +10553,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "롤스와 싱어는 모두 해외 원조의 의무는 자원 빈곤국의 구성원에게도 부과될 수 있다고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -10562,7 +10562,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "롤스는 원조 대상국 내부의 불평등 감소를 원조의 목적으로 삼는 것은 불가능하다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -10571,7 +10571,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "롤스는 정치 제도가 수립된 사회는 원조 대상에서 제외된다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -10751,7 +10751,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "롤스와 싱어는 모두 원조의 결과를 고려하여 원조 대상을 결정해야 한다고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -10922,7 +10922,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "싱어는 롤스와 달리 절대 빈곤 감소는 원조의 정당화 조건이 될 수 있다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -10967,7 +10967,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "싱어는 모든 사람은 세계 모든 이의 복지에 동일한 책임을 져야 한다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {

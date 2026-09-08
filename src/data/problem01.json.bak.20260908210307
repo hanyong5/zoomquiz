@@ -4049,6 +4049,7 @@
     "answer": true,
     "score": 1
   },
+ 
   {
     "num": 1,
     "id": 481,
@@ -7019,6 +7020,7 @@
     "answer": true,
     "score": 1
   },
+
   {
     "num": 1,
     "id": 811,
@@ -7043,7 +7045,7 @@
     "cat": "과학과환경윤리",
     "subject": "야스퍼스는 기술 자체는 그 기술을 실현하는 인간으로부터 독립된 존재라고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -7097,7 +7099,7 @@
     "cat": "과학과환경윤리",
     "subject": "야스퍼스는 기술의 본질은 인간의 욕구로 인해 선 또는 악으로 변화될 수 있다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -7367,7 +7369,7 @@
     "cat": "과학과환경윤리",
     "subject": "요나스는 현세대는 지구상 모든 존재에게 일방적 책임을 다해야 한다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -7538,7 +7540,7 @@
     "cat": "과학과환경윤리",
     "subject": "데카르트는 레오폴드와 달리 동물을 자원으로 사용하는 것이 금지되지는 않는다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -7583,7 +7585,7 @@
     "cat": "과학과환경윤리",
     "subject": "칸트는 테일러, 싱어와 달리 모든 생명체 가운데 오직 인간만이 가치를 지닌 유일한 존재라고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -7682,7 +7684,7 @@
     "cat": "과학과환경윤리",
     "subject": "칸트와 싱어는 레오폴드와 달리 자연을 경제적 관점에서 이용하는 것이 허용될 수 있다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -7736,7 +7738,7 @@
     "cat": "과학과환경윤리",
     "subject": "싱어는 레오폴드와 달리 감각 능력이 있는 모든 존재는 도덕적 고려의 대상이라고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -7781,7 +7783,7 @@
     "cat": "과학과환경윤리",
     "subject": "싱어, 칸트, 레오폴드는 모두 생태계의 모든 동식물이 존속 권리를 지니는 것은 아니라고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -7799,7 +7801,7 @@
     "cat": "과학과환경윤리",
     "subject": "레건과 테일러는 모두 생태계의 구성원만이 도덕적 지위를 지닌 존재가 될 수 있는 것은 아니라고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -7844,7 +7846,7 @@
     "cat": "과학과환경윤리",
     "subject": "레건은 동물이 권리를 가지려면 쾌고 감수 능력을 지녀야 한다고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -7952,7 +7954,7 @@
     "cat": "과학과환경윤리",
     "subject": "레건은 테일러와 달리 '한 살 이상의 정상적인 포유동물은 내재적 가치를 지닌다.'고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -8132,7 +8134,7 @@
     "cat": "과학과환경윤리",
     "subject": "테일러는 생태계에 대한 개입이 자연 존중의 태도와 양립할 수 있다고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -8150,7 +8152,7 @@
     "cat": "과학과환경윤리",
     "subject": "테일러는 칸트, 레건과 달리 어떤 개체가 생명을 지녀야만 도덕적 지위를 지닐 수 있다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -8168,7 +8170,7 @@
     "cat": "과학과환경윤리",
     "subject": "테일러는 데카르트, 레건과 달리 인간이 어떠한 생명체보다도 본래적으로 우월한 존재는 아니라고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -8177,7 +8179,7 @@
     "cat": "과학과환경윤리",
     "subject": "테일러는 '생명체 고유의 선을 보호하기 위한 간섭이 허용될 수 있는가?'에 대해 긍정의 대답을 할 것이다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -8249,7 +8251,7 @@
     "cat": "과학과환경윤리",
     "subject": "레오폴드와 싱어는 칸트와 달리 쾌고 감수 능력이 있는 모든 존재에 대한 종 차별주의는 부당하다고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -8267,7 +8269,7 @@
     "cat": "과학과환경윤리",
     "subject": "레오폴드는 싱어와 달리 생태계 균형을 위한 인위적 개입은 정당화될 수 있다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -8285,7 +8287,7 @@
     "cat": "과학과환경윤리",
     "subject": "레오폴드와 싱어는 칸트와 달리 인간은 다른 모든 생명체보다 본질적으로 우월하지 않다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -8312,7 +8314,7 @@
     "cat": "과학과환경윤리",
     "subject": "레오폴드는 테일러, 레건과 달리 인간이 생명 공동체에 개입하는 것이 정당화되는 경우가 있다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -8645,7 +8647,7 @@
     "cat": "문화와윤리",
     "subject": "칸트는 미적 판단은 모든 이성적 존재자에 대한 타당성을 전제한다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -8780,7 +8782,7 @@
     "cat": "문화와윤리",
     "subject": "아도르노는 문화 산업은 대중문화가 상품에 불과하다는 사실을 은폐한다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -9599,7 +9601,7 @@
     "cat": "문화와윤리",
     "subject": "베블런은 과시 소비는 소비 자체를 목적으로 하는 소모적 낭비라고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -9815,7 +9817,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "하버마스는 개인적 목표는 공동의 상황 정의에 근거할 때만 달성할 수 있다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -9932,7 +9934,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "칸트는 평화 연맹이 많아질수록 영원한 평화에 가까워질 수 있다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -9968,7 +9970,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "칸트는 방문한 외국인이 내국인과 동일하게 행사할 수 있는 권리는 없다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -10013,7 +10015,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "칸트는 시민법 체계가 한 국가의 대내적 정치 제도를 지정할 수는 없다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -10247,7 +10249,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "모겐소와 칸트는 모두 비폭력적 수단을 통해 국가 간 전쟁이 억제될 수 있다고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -10274,7 +10276,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "모겐소는 평화적인 방법으로는 국가들 간 전쟁을 억지할 수 없다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -10391,7 +10393,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "모겐소와 칸트는 모두 국제 정치에서 국가의 행위가 도덕적 중요성을 지님을 인식해야 한다고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -10553,7 +10555,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "롤스와 싱어는 모두 해외 원조의 의무는 자원 빈곤국의 구성원에게도 부과될 수 있다고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -10562,7 +10564,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "롤스는 원조 대상국 내부의 불평등 감소를 원조의 목적으로 삼는 것은 불가능하다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -10571,7 +10573,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "롤스는 정치 제도가 수립된 사회는 원조 대상에서 제외된다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -10751,7 +10753,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "롤스와 싱어는 모두 원조의 결과를 고려하여 원조 대상을 결정해야 한다고 본다.",
     "type": "true_false",
-    "answer": true,
+    "answer": false,
     "score": 1
   },
   {
@@ -10922,7 +10924,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "싱어는 롤스와 달리 절대 빈곤 감소는 원조의 정당화 조건이 될 수 있다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {
@@ -10967,7 +10969,7 @@
     "cat": "전쟁과국제윤리",
     "subject": "싱어는 모든 사람은 세계 모든 이의 복지에 동일한 책임을 져야 한다고 본다.",
     "type": "true_false",
-    "answer": false,
+    "answer": true,
     "score": 1
   },
   {

@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 1,
+    "subject": "아리스토텔레스는 가장 포괄적 도덕 공동체인 가정으로부터 국가가 시작된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 2,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 2,
+    "subject": "아리스토텔레스는 개인은 정치적 공동체 속에서만 최선(最善)의 삶이 가능하다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 3,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 3,
+    "subject": "아리스토텔레스는 국가는 개인의 권리와 안전 보장의 수단일 뿐이라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 4,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 4,
+    "subject": "아리스토텔레스는 국가는 인간의 본성에 따라 자연적으로 발생한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 5,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 5,
+    "subject": "아리스토텔레스는 모든 국가는 자연적으로 존재하며 자연적으로 존재하는 공동체들의 완성이라고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 6,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 6,
+    "subject": "아리스토텔레스는 '국가는 인간의 본성에 의해 존재하는 자족적인 공동체이다.'라는 진술에 긍정의 대답을 할 것이다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 7,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 7,
+    "subject": "아리스토텔레스에 따르면 최상위 공동체인 국가는 최상위의 선을 목표로 한다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 8,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 8,
+    "subject": "아리스토텔레스에 따르면 국가에 대한 정치적 의무는 인간 본성에서 비롯되는 자연스러운 것이다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 9,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 9,
+    "subject": "로크는 국가는 개인의 재산을 보장해야 정당화될 수 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 10,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 10,
+    "subject": "로크는 국가는 인간 이성의 오류 가능성으로 발생하는 분쟁을 해결해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 11,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 11,
+    "subject": "로크는 국가는 자연 발생하는 공동체의 가장 중요한 형태라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 12,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 12,
+    "subject": "로크는 국가의 구성원이 된 사람은 자연법의 위반 행위를 사적 판단에 따라 처벌할 수 있는 권력을 포기한 것이라고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 13,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 13,
+    "subject": "로크는 모든 인간은 태어날 때부터 존엄한 존재라고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 14,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 14,
+    "subject": "로크는 일부 자연권은 국가 형성 과정에서 권력에 양도 가능하다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 15,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 15,
+    "subject": "로크에 따르면 명시적 동의로부터 준법의 의무가 나올 수 없다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 16,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 16,
+    "subject": "로크에 따르면 입법자들이 인민을 노예로 만들고자 할 경우 인민의 정치적 의무는 면제될 수 있다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 17,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 17,
+    "subject": "로크에 따르면 정치적 의무는 묵시적 동의를 통해서만 성립 가능하다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 18,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 18,
+    "subject": "로크와 흄에 따르면 시민의 생명과 자유를 억압하는 정치적 권위에는 복종할 필요가 없다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 19,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 19,
+    "subject": "로크는 국가가 개인의 생명과 이익을 보장할 때 정당화될 수 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 20,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 20,
+    "subject": "로크와 달리 맹자는 '통치자가 제 역할을 못한다면 교체될 수 있는가?'에 긍정의 대답을 할 것이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 21,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 21,
+    "subject": "로크와 달리 맹자는 '통치자는 피치자의 안정적인 생활을 보장해야 하는가?'에 긍정의 대답을 할 것이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 22,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 22,
+    "subject": "로크는 '통치자의 권력은 피치자의 명시적 동의를 통해서만 정당성이 인정되는가?'에 긍정의 대답을 할 것이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 23,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 23,
+    "subject": "로크는 국가에 대해 권력이 분리되어서는 안 되며, 절대적인 권한을 부여받아야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 24,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 24,
+    "subject": "로크에 의하면 국가는 자연 상태에 비해 개인의 신체와 소유물의 보존을 어렵게 만든다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 25,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 25,
+    "subject": "로크에 의하면 국가는 개인이 가진 자연법의 집행권을 포기하고 공동체에 양도할 때 형성된다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 26,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 26,
+    "subject": "로크에 의하면 국가는 계약의 결과 인민들이 지니고 있던 저항의 권리를 포기할 것을 요구한다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 27,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 27,
+    "subject": "로크에 따르면 정부의 영토 일부를 소유한 사람들은 법에 복종하겠다는 동의를 한 것으로 보아야 한다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 28,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 28,
+    "subject": "로크와 롤스는 모두 국민의 기본권을 현저하게 침해하는 국가에 대해서는 혁명을 시도할 수도 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 29,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 29,
+    "subject": "루소는 각 개인은 다른 성원들과 계약을 맺으면서 결국 자기 자신과 계약을 맺는다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 30,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 30,
+    "subject": "루소는 주권은 누구에게도 양도될 수 없고, 분할될 수도 없는 절대적 속성을 지닌다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 31,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 31,
+    "subject": "홉스는 개인은 계약을 통해 군주에게 자신의 생명 보존의 권리까지 양도해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 32,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 32,
+    "subject": "홉스는 '국가는 구성원의 자발적 동의에 의해 형성되는 것인가?'에 대해 부정의 대답을 할 것이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 33,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 33,
+    "subject": "홉스는 '국가는 이기적인 인간의 욕망을 강제적으로 제어할 수 있는 권력을 지니는가?'에 대해 부정의 대답을 할 것이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 34,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 34,
+    "subject": "홉스는 '인간은 생존을 위해 자연권을 양도하여 국가의 지배로 들어가는가?'에 대해 부정의 대답을 할 것이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 35,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 35,
+    "subject": "홉스는 '자연 상태에서 벗어나기 위해서는 입법부와 행정부가 분리되어야 하는가?'에 대해 부정의 대답을 할 것이다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 36,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 36,
+    "subject": "홉스와 루소는 모두 사회 계약으로 형성된 국가는 시민들에게 평화와 안전 및 질서를 제공해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 37,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 37,
+    "subject": "흄은 전제 정치가 극심한 곳에서는 복종의 책임도 줄어든다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 38,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 38,
+    "subject": "흄은 국가로부터 얻는 혜택이 국가에 대한 복종의 근원적 동기가 된다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 39,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 39,
+    "subject": "흄에 따르면 국가로부터 얻는 이익이 중단될 경우 국가에 대한 정치적 의무도 중단된다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 40,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 40,
+    "subject": "공자는 이상적인 국가가 되기 위해서는 사회 구성원의 도덕성이 전제된 국가를 지향해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 41,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 41,
+    "subject": "공자는 이상적인 국가가 되기 위해서는 사회적 약자가 보살핌을 받는 안정적인 국가를 추구해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 42,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 42,
+    "subject": "공자는 이상적인 국가가 되기 위해서는 누구나 자신의 능력을 발휘할 수 있으며, 기본적인 삶이 보장되어야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 43,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 43,
+    "subject": "맹자는 백성들의 도덕성을 유지하는 데 경제적 안정이 중요하다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 44,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 44,
+    "subject": "맹자는 '통치자는 이로움을 따지기에 앞서 의로움을 먼저 고려해야 하는가?'에 긍정의 대답을 할 것이다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 45,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 45,
+    "subject": "순자는 서민의 자손이라도 재능과 덕을 갖추면 관리가 될 수 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 46,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 46,
+    "subject": "묵자는 군주가 백성과 상호 이익을 나누어야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 47,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 47,
+    "subject": "묵자는 군주가 타국을 이용해 자국의 이익을 증진해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 48,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 48,
+    "subject": "묵자는 군주는 자국을 돌보듯 타국을 돌보는 것을 통치의 근본으로 삼아야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 49,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 49,
+    "subject": "묵자는 군주는 백성들이 사랑을 나누며 상호 이익을 추구할 수 있도록 통치해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 50,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 50,
+    "subject": "묵자는 만인은 국가 경계를 넘어 서로를 차별하지 않고 돌보는 삶을 추구해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 51,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 51,
+    "subject": "묵자는 백성에게 은혜롭지 않은 군주는 구성원의 안정된 삶을 위협할 수 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 52,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 52,
+    "subject": "묵자는 자국에 대한 사랑을 확대하여 타국에 적용하는 인(仁)을 추구해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 53,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 53,
+    "subject": "민주주의와 민본주의 모두 정치권력의 정당성이 피치자로부터 나온다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 54,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 54,
+    "subject": "민주주의와 민본주의 모두 통치자가 피치자의 안정된 삶을 위해 노력해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 55,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 55,
+    "subject": "밀은 국가는 개인의 독립성에 대해 최소한으로만 통제해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 56,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 56,
+    "subject": "밀은 자유에 대한 제한은 해악 금지의 원칙을 따를 때만 정당한 것이라고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 57,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 57,
+    "subject": "밀은 당사자들에게 이익을 주기 위한 경우에는 국가의 통제가 정당하다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 58,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 58,
+    "subject": "밀은 개인의 행동이 본인의 이익에만 영향을 미치는 경우에 국가는 그 행동에 대한 자유를 보장해 주어야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 59,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 59,
+    "subject": "밀은 사회적으로 다수의 행복을 증진시킬 수 있다 하더라도 국가는 개인에게 본인의 의지에 반하는 행위를 강요할 수 없다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 60,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 60,
+    "subject": "공자와 플라톤은 각자는 자신의 직분만이 아니라 사회의 모든 직분에서 덕을 드러내야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 61,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 61,
+    "subject": "공자는 자신의 이름[名]에 걸맞은 역할을 충실히 수행해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 62,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 62,
+    "subject": "맹자는 모든 사람은 생업[恒産]이 없으면 도덕적인 마음[恒心]을 유지할 수 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 63,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 63,
+    "subject": "맹자는 백성들에게 부과하는 세금에는 일정한 법제가 있어야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 64,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 64,
+    "subject": "맹자는 백성들은 일정한 직업을 갖지 못하면 도덕적인 문제에 대하여 관심을 갖기 어렵다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 65,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 65,
+    "subject": "맹자는 백성들의 교화(敎化)가 백성들의 경제적 형편의 안정을 위한 직업의 보장보다 선행되어야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 66,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 66,
+    "subject": "맹자는 백성들의 떳떳한 생업 보장은 왕도 정치의 경제적 기반이 된다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 67,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 67,
+    "subject": "맹자는 백성들의 생계유지 기반은 통치자가 마련해 주어야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 68,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 68,
+    "subject": "맹자는 백성을 나라의 근본으로 삼아 민주적 절차에 따라 군주를 선출해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 69,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 69,
+    "subject": "맹자는 옳지 못함을 부끄러워하는 마음[羞惡之心]을 통해 의를 실현할 때 정의롭다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 70,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 70,
+    "subject": "맹자와 플라톤은 모두 지혜의 덕을 발휘하는 통치자가 다스리는 사회가 정의롭다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 71,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 71,
+    "subject": "맹자는 통치자가 덕으로써 사람들이 조화롭게 살 수 있도록 해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 72,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 72,
+    "subject": "맹자는 임금은 백성이 본래의 도덕적 마음을 잃지 않도록 교화해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 73,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 73,
+    "subject": "맹자는 자급자족하는 것이 바람직한 삶이라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 74,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 74,
+    "subject": "맹자는 통치자와 생산자의 구분을 없애야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 75,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 75,
+    "subject": "맹자는 대인은 육체노동을 통해 소인의 모범이 되어야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 76,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 76,
+    "subject": "맹자는 장인들의 기술이 천하를 다스리는 일보다 가치 있는 것이라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 77,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 77,
+    "subject": "맹자에 따르면 분업을 통해 사회적 직분 간의 유기적 관계를 이루어야 한다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 78,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 78,
+    "subject": "맹자에 따르면 타고난 신분이 아니라 덕에 따라 지위를 정해야 한다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 79,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 79,
+    "subject": "맹자와 순자는 모두 통치자가 농업과 같은 육체노동에서 제외되는 것에 찬성한다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 80,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 80,
+    "subject": "맹자와 마르크스는 모두 인간은 분업에 참여함으로써 인간다움을 실현해야 한다고 주장한다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 81,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 81,
+    "subject": "순자는 잘 다스려지는 나라는 사람들의 신분이 분별되고 빈부 격차가 없다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 82,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 82,
+    "subject": "순자는 잘 다스려지는 나라는 사람들의 직분이 예에 맞게 배분된다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 83,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 83,
+    "subject": "순자는 직업 활동이 욕망 충족과 무관하게 이루어져야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 84,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 84,
+    "subject": "순자는 통치자는 덕에 따라 사람들 사이의 지위에 차등을 두어야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 85,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 85,
+    "subject": "순자는 통치자는 사람들의 능력을 헤아려 할 일을 맡겨야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 86,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 86,
+    "subject": "순자와 플라톤은 모두 사회 구성원 모두가 정치의 주체가 될 때 정의로운 사회가 된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 87,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 87,
+    "subject": "순자는 인위적인 규범으로 일을 나누어야 백성들의 다툼이 사라진다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 88,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 88,
+    "subject": "순자는 통치자는 백성의 덕과 능력에 따라 사회적 역할을 맡겨야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 89,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 89,
+    "subject": "순자와 플라톤은 모두 구성원 각자가 직분에 충실할 때 사회의 조화가 가능하다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 90,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 90,
+    "subject": "순자는 통치자는 백성들의 개인적인 모든 욕구가 충족되도록 분배해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 91,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 91,
+    "subject": "순자는 자신의 직업에 따라 일은 달리하여도 보수는 동등하게 주어져야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 92,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 92,
+    "subject": "순자는 모든 차별을 없애 직업에서의 평등을 실현해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 93,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 93,
+    "subject": "순자는 본성에 근거한 예(禮)에 따라 사회적 분배의 기준을 마련해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 94,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 94,
+    "subject": "순자에 따르면 육체노동에 정통하지 못해도 도에 정통할 수 있다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 95,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 95,
+    "subject": "순자에 따르면 모든 일을 잘할 수 있는 사람이 가장 이상적인 사람이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 96,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 96,
+    "subject": "순자와 홍대용은 모두 직업에서는 세습적 신분보다 자신의 후천적 노력이 중요하다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 97,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 97,
+    "subject": "순자는 분업이 사회 질서를 유지시키는 효과적인 방법이라고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 98,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 98,
+    "subject": "실학자는 선비가 육체노동을 피하고 학문에 전념할 것을 강조한다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 99,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 99,
+    "subject": "실학자들은 순자와 달리 세습적 신분에 따라 직업을 정할 것을 강조한다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 100,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 100,
+    "subject": "플라톤은 통치자가 국가를 다스리는 데 가장 중요한 덕목은 지혜라고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 101,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 101,
+    "subject": "플라톤은 통치자가 충분히 철학을 하지 않는다면 국가의 해악은 종식되지 않는다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 102,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 102,
+    "subject": "플라톤은 통치자는 각 계층 간의 의견을 충분히 반영한 민주 정치 체제를 지향해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 103,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 103,
+    "subject": "플라톤은 통치자는 이성을 바탕으로 국가의 이익이 되는 일과 정의로움을 추구해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 104,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 104,
+    "subject": "플라톤과 정약용은 모두 '공직자는 사사로운 욕망을 버리고 청렴한 삶을 추구해야 하는가?'에 대해 긍정의 대답을 할 것이다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 105,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 105,
+    "subject": "플라톤과 정약용은 모두 '공직자는 사회 구성원들의 복리(福利)를 위해 봉사하는 정신을 지녀야 하는가?'에 대해 긍정의 대답을 할 것이다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 106,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 106,
+    "subject": "플라톤과 정약용은 모두 '사유 재산을 소유한 사람은 공직의 자격을 갖지 못하는가?'에 대해 긍정의 대답을 할 것이다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 107,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 107,
+    "subject": "플라톤은 맹자와 달리 통치자는 자신의 역할을 충실히 수행하기 위해 사유 재산을 소유해서는 안 된다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 108,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 108,
+    "subject": "플라톤은 사회의 모든 구성원이 적극적으로 정책 결정에 참여하는 사회가 정의롭다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 109,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 109,
+    "subject": "플라톤은 공익 실현을 위해 모든 계층의 사적 소유를 금지해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 110,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 110,
+    "subject": "플라톤은 각자가 본분에 맞는 탁월성을 발휘할 때 정의가 실현된다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 111,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 111,
+    "subject": "플라톤은 치자와 피치자가 동일한 일을 하는 것이 정의롭다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 112,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 112,
+    "subject": "플라톤은 개인의 선택에 따라 계층 이동을 자유롭게 해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 113,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 113,
+    "subject": "플라톤은 유능한 생산자는 수호자로, 무능한 수호자는 생산자로 신분을 이동시켜야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 114,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 114,
+    "subject": "플라톤은 철학자가 나라의 모든 일을 도맡아 해야 정의롭다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 115,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 115,
+    "subject": "중세 그리스도교 신학자와 칼뱅은 모두 육체노동은 신에 의해 주어진 것이므로 성실하게 임해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 116,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 116,
+    "subject": "칼뱅은 구성원 간의 역할이 자유롭게 교환되어야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 117,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 117,
+    "subject": "칼뱅은 노동을 통한 부의 형성은 부정되어야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 118,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 118,
+    "subject": "칼뱅은 모든 물질을 신의 뜻에 맞추어서 사용해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 119,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 119,
+    "subject": "칼뱅은 소명을 이루는 것을 삶의 목표로 삼아야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 120,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 120,
+    "subject": "칼뱅은 직업 노동은 오직 원죄에 대한 속죄를 위해 행해져야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 121,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 121,
+    "subject": "칼뱅은 노동은 신이 내린 형벌로서 인간의 예속 상태를 나타낸다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 122,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 122,
+    "subject": "칼뱅은 직업을 신의 거룩한 부름[召命]으로 인식해야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 123,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 123,
+    "subject": "칼뱅은 직업적 노동이 소명임을 알고 순종하면, 낮고 천한 일도 신 앞에서는 귀하다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 124,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 124,
+    "subject": "칼뱅은 신 앞에서는 직업의 귀천이 없다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 125,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 125,
+    "subject": "칼뱅은 노동을 신의 뜻을 세속에서 실천하는 한 방식으로 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 126,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 126,
+    "subject": "칼뱅은 소명에 충실히 임하는 것은 부를 축적하기 위함이라고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 127,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 127,
+    "subject": "칼뱅은 직업을 통한 부의 축적을 부정적으로 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 128,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 128,
+    "subject": "칼뱅은 직업적 성공을 이루어야 내세의 구원이 보장된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 129,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 129,
+    "subject": "칼뱅에 따르면 성직만이 신이 정해준 직업임을 알아야 한다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 130,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 130,
+    "subject": "베버는 기독교인의 금욕적 생활 방식이 근대 자본주의 발전을 저해하였다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 131,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 131,
+    "subject": "프로테스탄티즘에서는 직업 생활이 원죄에 대한 속죄의 의미로 수행되어야 함을 강조하였다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 132,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 132,
+    "subject": "마르크스는 기술적 분업은 노동에 대한 자본의 지배를 강화하는 조건을 조성한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 133,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 133,
+    "subject": "마르크스는 기술적 분업을 통해 노동자는 작업장의 부속물로서 자본의 소유물이 된다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 134,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 134,
+    "subject": "마르크스는 노동자는 기술의 발전을 통해 육체노동에서 해방된다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 135,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 135,
+    "subject": "마르크스는 노동자에 대한 자본가의 착취는 분업화된 노동을 통해 사라진다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 136,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 136,
+    "subject": "마르크스는 인간 본질은 노동 그 자체를 욕구하게 될 때 실현된다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 137,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 137,
+    "subject": "마르크스는 인간은 노동을 통해 자신의 본질을 실현하고 행복을 누릴 수 있어야 한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 138,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 138,
+    "subject": "마르크스는 임금 노동자는 노동을 통해 자율적으로 삶을 영위한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 139,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 139,
+    "subject": "마르크스는 자본주의적 생산 방식은 노동의 참된 의미를 왜곡한다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 140,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 140,
+    "subject": "마르크스는 '사적 소유를 철폐해야만 노동자들은 주체적인 삶을 살 수 있는가?'에 긍정의 대답을 할 것이다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 141,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 141,
+    "subject": "마르크스와 칼뱅은 모두 노동이 가진 생계 수단 이상의 가치를 중시한다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 142,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 142,
+    "subject": "프리드먼과 애로우는 모두 기업의 이윤 추구와 공익의 실현은 서로 양립될 수 있다고 본다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 143,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 143,
+    "subject": "프리드먼은 애로우와 달리 기업은 법을 준수하면서 이윤을 추구해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 144,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 144,
+    "subject": "프리드먼에 따르면 기업의 이윤 추구에 도움이 되는 경우에 기업은 기부 행위를 할 수 있다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 145,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 145,
+    "subject": "애로우는 프리드먼과 달리 기업 경영의 근본 목적은 사회 복지와 공동선의 실현에 있다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 146,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 146,
+    "subject": "보겔은 '기업의 공공선을 위한 기여는 기업의 장기적 이익에 도움이 될 수 있는가?'에 긍정의 대답을 할 것이다.",
+    "type": "true_false",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 147,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 147,
+    "subject": "정약용은 목민관은 백성들이 욕망 자체를 버리게 해야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 148,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 148,
+    "subject": "정약용과 플라톤은 모두 다스리는 자는 공익을 추구해야 하므로 사적 소유가 금지되어야 한다고 본다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 149,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 149,
+    "subject": "정약용에 따르면 수령은 공익과 사익의 균등을 추구해야 한다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 150,
+    "cat": "국가의 권위, 직업 윤리",
+    "num": 150,
+    "subject": "정약용에 따르면 공직자는 공적 업무와 사적 업무의 경계를 정하지 말아야 한다.",
+    "type": "true_false",
+    "answer": false,
+    "score": 1
+  }
+]

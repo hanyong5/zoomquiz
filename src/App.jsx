@@ -3,11 +3,22 @@ import { Swiper, SwiperSlide } from 'swiper/react'
 import { Pagination } from 'swiper/modules'
 import 'swiper/css'
 import 'swiper/css/pagination'
-import problems from './data/problem01.json'
 import './App.css'
+
+const problemModules = import.meta.glob('./data/problem*.json', {
+  eager: true,
+  import: 'default',
+})
 
 const QUIZ_SIZE = 20
 const MOBILE_QUERY = '(max-width: 768px)'
+
+let nextId = 1
+const problems = Object.keys(problemModules)
+  .sort()
+  .flatMap((path) =>
+    problemModules[path].map((p) => ({ ...p, id: nextId++ }))
+  )
 const CATEGORIES = [...new Set(problems.map((p) => p.cat).filter(Boolean))]
 
 function shuffle(array) {
